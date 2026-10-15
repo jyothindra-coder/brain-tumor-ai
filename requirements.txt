@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+Pillow
+scikit-learn
+ImageHash
+pytest
+httpx
+numpy
+torch
+torchvision
+nibabel
+matplotlib
